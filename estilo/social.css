@@ -29,3 +29,8 @@ a:hover {
     background-color: red;
     transition: 100ms;
 }
+
+a:active {
+    background-color: rgb(68, 0, 0);
+    
+}
